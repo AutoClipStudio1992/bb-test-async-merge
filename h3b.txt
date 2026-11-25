@@ -1,0 +1,1 @@
+H3 test 3B: required + optional failing checks.
